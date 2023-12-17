@@ -1,10 +1,12 @@
 Hello everyone,
 
 I'm excited to share the code I developed for my computational physics project, focusing on modeling the propagation of waves in a circular membrane. 
-The entire project is implemented using centered finite difference methods.
+The entire project is implemented using centered finite difference methods. 
+
+Note: In all codes, you have the possibility to animate the wave propagation.
 
 NormalModes Code:
-The code named NormalModes generates the normal modes of a circular membrane with fixed boundary conditions. 
+The code-named NormalModes generates the normal modes of a circular membrane with fixed boundary conditions. 
 This serves as a foundational piece for understanding the inherent behavior of the system.
 
 Fourier Code:
